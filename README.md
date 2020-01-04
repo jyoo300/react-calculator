@@ -1,3 +1,5 @@
+A calculator built with React. Supports the 4 basic add/divide/multiply features, as well as sqrt, exponent, sin, cos, and tan functions. Stores the answer and uses it in subsequent calculations. Implements a clear button. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
